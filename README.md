@@ -56,6 +56,3 @@ Implementation of a Priority Queue using a heap data structure.
 [QuickSort.c](QuickSort.c)<br>
 An implementation of the Quick Sort algorithm, a divide-and-conquer approach to sorting elements that uses a pivot to partition the array.
 
----
-
-Feel free to customize any descriptions or add more details as needed!
